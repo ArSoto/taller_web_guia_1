@@ -1,0 +1,42 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    /*font-family: 'Dancing Script', cursive;*/
+    /*font-family: 'Shadows Into Light', cursive;*/
+}
+
+body{
+    background-color: yellowgreen;
+}
+/*titulo del apartado mascotas*/
+.titulos_secundarios{
+  background-color: steelblue;
+  color: white;
+  border: 2px solid black;
+  text-align:center;
+  margin: 20px;
+  padding: 20px;
+}
+
+ .imagen {
+     width:300px;
+     height:300px;
+     border-radius:10%;
+     display: block;
+     margin-left: auto;
+     margin-top: 10px;
+     margin-right: auto;         
+}
+
+ul.navbar {
+    position: relative;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+p{
+    color: blue;
+    text-align: center;
+}
